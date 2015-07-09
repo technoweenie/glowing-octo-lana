@@ -1,1 +1,2 @@
-*.gif filter=lfs diff=lfs merge=lfs -crlf
+[attr]lfs filter=lfs diff=lfs merge=lfs -text
+*.gif lfs
